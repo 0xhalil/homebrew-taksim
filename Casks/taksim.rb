@@ -1,7 +1,7 @@
 # Written by native/scripts/release.sh on every release; edit native/scripts/taksim.rb.in, not this file.
 cask "taksim" do
-  version "0.1.2"
-  sha256 "6cde9170076da0accf0a5197d3fe7b0a79674f39a4005ef613472777c081059e"
+  version "0.1.3"
+  sha256 "f71bdcf55ac33428e5b3691a448e2c223a23283e10b04be376fcfad349bf23dc"
 
   url "https://github.com/0xhalil/taksim/releases/download/v#{version}/Taksim-#{version}.zip"
   name "taksim"
